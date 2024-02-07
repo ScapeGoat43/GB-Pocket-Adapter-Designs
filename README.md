@@ -1,5 +1,5 @@
 # GB-Pocket-Designs
-Just a modified version of the bottom shell for the GC Pocket Adapter + with a different design
+Just a modified version of the bottom shell for the GC Pocket Adapter + with a different designs
 
 GB Pocket made by NiceMitch - HHL. Please support him in any way you can via buying this persons product:
 https://handheldlegend.com/products/4-port-gc-pocket-adapter-gamecube-to-usb-c-controller-adapter-diy-kit
